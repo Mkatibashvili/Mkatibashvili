@@ -12,27 +12,26 @@ Use the BASH Shell or Appliance Management CLI o expand the partition(s).
    Acronis Backup & Recovery 10 Advanced Workstation
    Faronics Cloud Deep Freeze Premium
 
-3 I am guided by this documentation
-  https://severalnines.com/database-blog/postgresql-running-slow-tips-tricks-get-source
+3 This documentation https://severalnines.com/database-blog/postgresql-running-slow-tips-tricks-get-source guides me
 
 
-4  i will get documentation 
+4  I will get documentation 
   https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/installation_guide/storage_devices-ppc
   
 5  Static Website
-  i will configure  Amazon CloudFront and Amazon S3
+  I will configure  Amazon CloudFront and Amazon S3
 
-6  i will get documentation 
+6  I will get documentation 
    https://medium.com/coding-blocks/optimizing-storage-and-managing-cleanup-in-postgresql-c2fe56d4cf5
 
-7 this option we need to configure 
-  Elastic Load Balancing and Autoscaling configuretion
+7 This option we need to configure 
+  Elastic Load Balancing and Autoscaling configuration
 
-8 i will create test.sh file and execute with that kind of command
+8 I will create a test.sh file and execute it with that kind of command
   crontab -e
   @reboot  /home/user/test.sh
 
-9  Key Differences Between Linux and Windows Operating System
+9  Key Differences Between Linux and Windows Operating Systems
 Linux is free and open source operating system whereas Windows is a commercial operating system whose source code is inaccessible.
 Windows is not customizable as against Linux is customizable and a user can modify the code and can change its the look and feel.
 Linux provides high security than windows because Linux is open source.
